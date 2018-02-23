@@ -1,0 +1,63 @@
+body {
+  background-image:url(runinthewood.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+h1 {
+  color: #660000;
+  text-align: left;
+}
+
+#JKRgroen {
+  color: black;
+  text-align: left;
+}
+
+a {
+  color: #660000;
+  text-align: center;
+}
+
+#JKRbody {
+  background-image:url(JKR555.jpg);
+  background-repeat: no-repeat;
+  background-size: 100;
+}
+
+#Personages {
+  background-image:url(jaja.jpg);
+  background-repeat: repeat;
+  background-size: 100;
+}
+
+#TKP {
+  color: red;
+  text-align: center;
+}
+
+#zwart {
+  color: Black;
+}
+
+#Trailer {
+  background-image:url(Basic.jpg);
+  background-repeat: no-repeat;
+  background-size: 100;
+}
+
+p {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-right: 15px;
+    margin-left: 15px;
+    border: 4px double black;
+    text-align: center;
+    padding: 5px;
+    border-width: 4px;
+}
+
+#begin {
+  color: #660000;
+  text-align: left;
+}
