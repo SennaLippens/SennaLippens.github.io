@@ -41,7 +41,7 @@ a {
 }
 
 #Trailer {
-  background-image:url(Basic.jpg);
+  background-image:url(../Basic.jpg);
   background-repeat: no-repeat;
   background-size: 100;
 }
