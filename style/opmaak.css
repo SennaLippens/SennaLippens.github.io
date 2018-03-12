@@ -26,22 +26,22 @@ a {
 }
 
 #Personages {
-  background-image:url("Mooihoor.jpg");
+  background-image:url("ZwarteHPachtergrond.jpg");
   background-repeat: repeat;
   background-size: 100;
 }
 
 #TKP {
-  color: green;
+  color: white;
   text-align: center;
 }
 
 #zwart {
-  color: Black;
+  color: white;
 }
 
 #Trailer {
-  background-image:url(../Basic.jpg);
+  background-image:url("basic.jpg");
   background-repeat: no-repeat;
   background-size: 100;
 }
