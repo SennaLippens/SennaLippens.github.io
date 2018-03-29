@@ -20,7 +20,7 @@ a {
 }
 
 #JKRbody {
-  background-image:url(Dit....jpg);
+  background-image:url(....jpg);
   background-repeat: no-repeat;
   background-size: 100;
   background-image: rgba(255, 255, 255, .5);
@@ -40,12 +40,14 @@ a {
 #zwart {
   color: white;
   padding: 15px;
+  text-align: center;
 }
 
 #Trailer {
-  background-image:url("Dit....jpg");
+  background-image:url("....jpg");
   background-repeat: no-repeat;
   background-size: 100;
+  text-align: center;
 }
 
 p {
