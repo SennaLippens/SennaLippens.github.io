@@ -20,7 +20,7 @@ a {
 }
 
 #JKRbody {
-  background-image:url(....jpg);
+  background-image:url(bgtrailer.jpg);
   background-repeat: no-repeat;
   background-size: 100;
   background-image: rgba(255, 255, 255, .5);
@@ -44,7 +44,7 @@ a {
 }
 
 #Trailer {
-  background-image:url("....jpg");
+  background-image:url("bgtrailer.jpg");
   background-repeat: no-repeat;
   background-size: 100;
   text-align: center;
