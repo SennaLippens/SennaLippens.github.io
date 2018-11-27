@@ -80,7 +80,8 @@ nav{
   text-align: center;
   align-items: center;
   width: 340px;
-  margin-left: 41%;
+  /* margin-left: 41%; */
+  margin: auto;
 }
 
 .footer{
@@ -98,5 +99,5 @@ nav{
 
 .wrapper {
   margin: 0 auto 0 auto;
-  width: 960px;
+  width: 80%;
 }
